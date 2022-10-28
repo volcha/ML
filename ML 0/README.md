@@ -9,13 +9,13 @@
 Для просмотра ноутбука: https://github.com/volcha/ML/blob/main/ML%200/ML%200.ipynb
 
 
-#### Описание датасета
+### Описание датасета
 
 Взят датасет с данными пациентов из США. С его помощью попытаемся выяснить вдияние различных факторов на наличие сахарного диабета
 
 Ссылка на датасет: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_binary_health_indicators_BRFSS2015.csv
 
-##### Признаки
+### Признаки
 
 1) Diabetes_012 - 0 = нет диабета, 1 = диабет
 
