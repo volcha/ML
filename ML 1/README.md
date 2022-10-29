@@ -4,4 +4,4 @@
 
 ## М8О-408Б-19
 
-Для просмотра ноутбука: https://github.com/volcha/ML/blob/main/ML%201/ML%201.2.ipynb
+Ноутбук: https://github.com/volcha/ML/blob/main/ML%201/ML%201.2.ipynb
